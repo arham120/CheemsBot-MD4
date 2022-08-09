@@ -36,10 +36,10 @@ global.APIKeys = {
 
 
 //aumto functioner
-global.autoTyping = false //auto tying in gc (true to on, false to off)
+global.autoTyping = true //auto tying in gc (true to on, false to off)
 global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
 global.autoReadGc = false //auto reading in gc (true to on, false to off)
-global.autoRecord = false //auto recording (true to on, false to off)
+global.autoRecord = true //auto recording (true to on, false to off)
 global.available = true //auto available (true to on, false to off)
 
 //semt menu variants
@@ -54,22 +54,22 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['94761508260'] //ur owner number
-global.ownername = "几丨卩ㄩ几ᴮᴼᵀ" //ur owner name
+global.vcardowner = ['923136744239'] //ur owner number
+global.ownername = "bad boy" //ur owner name
 global.ytname = "YT: SISCO YT" //ur yt chanel name
 global.socialm = "GitHub:MMADUSANKA1011" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
-global.owner = ['94761508260']
-global.ownertag = '94761508260' //ur tag number
-global.botname = 'Cheems Bot MD V4' //ur bot name
+global.owner = ['923136744239']
+global.ownertag = '923136744239' //ur tag number
+global.botname = 'bad boy MD V4' //ur bot name
 global.linkz = "https://youtube.com/channel/UCMTPSADs0moSNNhNzLEzT-Q" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtube.com/channel/UCMTPSADs0moSNNhNzLEzT-Q" //ur website to be displayed
+global.websitex = "https://youtube.com/channel/UChzb_g2vFi8fCDrntDrZkDA" //ur website to be displayed
 global.botscript = 'https://github.com/madusanka1011' //script link
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
-global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
+global.packname = "bad Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
 global.author = "🦄NIPUN ᴮᴼᵀ" //ur sticker watermark author
 
 //Bot theme media
@@ -79,7 +79,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['94761508260'] //ur premium numbers
+global.premium = ['923136744239'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
